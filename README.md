@@ -1,4 +1,4 @@
-# SwiftValidation
+# Swift Validation
 
 [![CI Status](http://img.shields.io/travis/Tom Knapen/SwiftValidation.svg?style=flat)](https://travis-ci.org/Tom Knapen/SwiftValidation)
 [![Version](https://img.shields.io/cocoapods/v/SwiftValidation.svg?style=flat)](http://cocoapods.org/pods/SwiftValidation)
